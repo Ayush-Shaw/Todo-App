@@ -15,8 +15,8 @@ __Styling:__
 - __Tailwind CSS:__ For efficient and scalable styling.
 
 __Tools:__
--__Vite:__ For fast and optimized development.
--__UUID Generator:__ For generating unique IDs for tasks.
+- __Vite:__ For fast and optimized development.
+- __UUID Generator:__ For generating unique IDs for tasks.
 
 ### 🚀 Features:
 - Add Tasks: Easily add new tasks to your todo list.
